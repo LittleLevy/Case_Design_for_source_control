@@ -7,3 +7,5 @@ Children:
   Type: Motor
 - Name: 'Motor1-1'
   Type: Motor1
+- Name: 'Motor1-2'
+  Type: Motor1
