@@ -4,3 +4,6 @@ Children:
 - Name: Motor
   Id: g=0e5e111470a5f0ec32446ac60794bdb1
   Supertype: BaseObjectType
+- Name: Motor1
+  Id: g=7798a90555dba1dbe16d366a710c5161
+  Supertype: Motor
