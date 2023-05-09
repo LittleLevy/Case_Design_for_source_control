@@ -9,7 +9,7 @@ Children:
   Type: Motor1
 - Name: 'Motor1-2'
   Type: Motor1
-- Name: Motor3
+- Name: 'Motor1-3'
   Type: Motor1
   Children:
   - Name: Variable1
