@@ -9,3 +9,14 @@ Children:
   Type: Motor1
 - Name: 'Motor1-2'
   Type: Motor1
+- Name: Motor3
+  Type: Motor1
+  Children:
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variable2
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
