@@ -3,3 +3,5 @@ Type: FolderType
 Children:
 - Name: Motor1
   Type: Motor
+- Name: Motor2
+  Type: Motor
