@@ -1,0 +1,6 @@
+Name: Types
+Type: FolderType
+Children:
+- Name: Motor
+  Id: g=0e5e111470a5f0ec32446ac60794bdb1
+  Supertype: BaseObjectType

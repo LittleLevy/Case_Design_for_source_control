@@ -1,0 +1,5 @@
+Name: Instances
+Type: FolderType
+Children:
+- Name: Motor1
+  Type: Motor
